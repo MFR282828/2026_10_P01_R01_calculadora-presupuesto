@@ -9,6 +9,7 @@ print("========================================")
 print("     CALCULADORA DE PRESUPUESTO        ")
 print("========================================")
 
+nombre_cliente = input ("Ingrese el nombre del cliente: ")
 nombre_producto = input("Ingrese el nombre del producto: ")
 
 entrada_precio = input("Ingrese el precio unitario: ")
@@ -29,6 +30,7 @@ total_final = subtotal - importe_descuento
 print("\n========================================")
 print("          RESUMEN DE COMPRA             ")
 print("========================================")
+print("Cliente:", nombre_cliente)
 print("Producto:", nombre_producto)
 print("Precio unitario:", precio_unitario)
 print("Cantidad comprada:", cantidad)

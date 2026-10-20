@@ -3,7 +3,7 @@
 Programa en consola (CLI) desarrollado en Python para calcular el costo total de una compra a partir del nombre del producto, precio unitario, cantidad adquirida y porcentaje de descuento.
 
 ## Objetivo didáctico
-ñ
+
 Practicar los conceptos fundamentales del lenguaje Python mediante un programa secuencial ejecutable desde la terminal:
 - Declaración y uso de variables descriptivas.
 - Diferenciación de tipos de datos primitivos (`str`, `int`, `float`).
